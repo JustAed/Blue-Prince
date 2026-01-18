@@ -1,0 +1,1 @@
+Type: #redroom #deadend

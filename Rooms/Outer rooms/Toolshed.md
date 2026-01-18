@@ -1,0 +1,1 @@
+Type: #blueprint #deadend #outerroom

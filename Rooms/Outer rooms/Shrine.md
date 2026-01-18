@@ -1,0 +1,2 @@
+Type = #blueprint #deadend #outerroom 
+

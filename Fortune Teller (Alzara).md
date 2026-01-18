@@ -1,0 +1,17 @@
+- First time:
+	- A boy standing on a shore of white sand, looking for something he was told he can’t find
+	- Black cat tied to a red flag (Red flag that does not wave in the wind)
+	- A door with a moon, always locked with no key (It is what we are searching for)
+- Second time:
+	- Foresaw the house in ruin
+	- [[8 Red Letters]] on 8 pedestals written by 8 different people, we will only read 7 of them
+	- Like the painting in the rooms 1 letter is missing
+- Third time:
+	- HORROR GAME WHYYY IS IT NOW A HORROR GAME
+	- ![[Pasted image 20260118160649.png | 250]] (at the end) (in [[The Tomb]]??)
+	- I was being watched, and stuff was happening i did not do (in the prophecy)
+	- ![[Screenshot 2026-01-18 160412 1.png | 400]]
+	- ![[Screenshot 2026-01-18 160422.png | 400]]
+	- ![[Screenshot 2026-01-18 160429.png | 400]]
+	- ![[Screenshot 2026-01-18 160435.png | 400]]
+- 

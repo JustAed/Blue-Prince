@@ -1,0 +1,1 @@
+Type: #redroom #greenroom #hallway #bedroom #shop #blackprint #blueprint

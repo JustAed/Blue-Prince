@@ -1,0 +1,1 @@
+Type: #bedroom #bedroom #deadend #deadend
