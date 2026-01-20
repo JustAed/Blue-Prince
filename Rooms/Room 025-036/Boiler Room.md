@@ -1,0 +1,2 @@
+Type = #mechanical #blueprint
+

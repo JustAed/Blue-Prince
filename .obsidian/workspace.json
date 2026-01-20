@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rooms/Red rooms/Maids Chaimber.md",
+                "file": "Rooms/Room 025-036/Boiler Room.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Maids Chaimber"
+              "title": "Boiler Room"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Rooms/Red rooms/Maids Chaimber.md",
+                "file": "Rooms/Room 025-036/Boiler Room.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Maids Chaimber"
+              "title": "Backlinks for Boiler Room"
             }
           },
           {
@@ -180,44 +180,45 @@
       "bases:Create new base": false
     }
   },
-  "active": "8031dfa2a0de1e86",
+  "active": "fc4b7c5b682f6f2f",
   "lastOpenFiles": [
-    "Blue-Prince",
-    "Pictures/Pasted image 20260118194432.png",
-    "Rooms/Hallways/Foyer.md",
-    "Rooms/Red rooms/Maids Chaimber.md",
-    "Rooms/Green rooms/Cloister.md",
-    "Rooms/Green rooms/Terrace.md",
-    "Rooms/Studio Additions/Solarium.md",
-    "Rooms/Green rooms/Patio.md",
-    "Rooms/Green rooms/Greenhouse.md",
-    "Rooms/Green rooms/Courtyard.md",
-    "Music Sheets.md",
-    "Pictures/Pasted image 20260118192614.png",
-    "Rooms/Outer rooms/Shrine.md",
-    "Rooms/Studio Additions/Classroom.md",
+    "Rooms/Shops/Showroom.md",
+    "Rooms/Room 025-036/Boiler Room.md",
     "Fortune Teller (Alzara).md",
-    "Rooms/Outer rooms/The Tomb.md",
-    "Rooms/Room 025-036/Drafting Studio.md",
-    "Rooms/Room 025-036/Drawing Room.md",
-    "Rooms/Room 025-036/Laboratory.md",
-    "Rooms/Room 025-036/Library.md",
-    "Rooms/Room 025-036/Pump Room.md",
-    "Rooms/Room 025-036/Security.md",
-    "Rooms/Room 025-036/Study.md",
-    "Rooms/Room 025-036/The Pool.md",
-    "Rooms/Room 025-036/Utility Closet.md",
-    "Rooms/Room 025-036/Workshop.md",
-    "Pictures/Pasted image 20260110205811.png",
-    "Pictures/Pasted image 20260110212936.png",
-    "Pictures/Pasted image 20260118152558.png",
-    "Rooms/Outer rooms/Hovel.md",
-    "Rooms/Bedrooms/Bedroom.md",
-    "Pictures/Pasted image 20260118170719.png",
-    "Pictures/Pasted image 20260118170659.png",
-    "Pictures/Pasted image 20260118165954.png",
-    "Pictures/Pasted image 20260118165942.png",
+    "Pictures/Pasted image 20260118163139.png",
+    "Pictures/Pasted image 20260118163242.png",
+    "Pictures/Pasted image 20260118164052.png",
+    "Pictures/Pasted image 20260118164125.png",
+    "Pictures/Pasted image 20260118164202.png",
+    "Pictures/Pasted image 20260118164220.png",
+    "Pictures/Pasted image 20260118165423.png",
+    "Pictures/Pasted image 20260118165454.png",
     "Pictures/Pasted image 20260118165604.png",
+    "Pictures/Pasted image 20260118165942.png",
+    "Rooms/Bedrooms/Bedroom.md",
+    "Rooms/Bedrooms/Boudior.md",
+    "Rooms/Bedrooms/Bunk Room.md",
+    "Rooms/Bedrooms/Guest Bedroom.md",
+    "Rooms/Bedrooms/Nursery.md",
+    "Rooms/Bedrooms/Servants Quarters.md",
+    "Rooms/Green rooms/Cloister.md",
+    "Rooms/Green rooms/Courtyard.md",
+    "Rooms/Green rooms/Greenhouse.md",
+    "Rooms/Green rooms/Patio.md",
+    "Rooms/Green rooms/Terrace.md",
+    "Rooms/Hallways/Corridor.md",
+    "Rooms/Hallways/East Wing Hall.md",
+    "Rooms/Hallways/Foyer.md",
+    "Rooms/Hallways/Great Hall.md",
+    "Rooms/Hallways/Hallway.md",
+    "Rooms/Hallways/Passageway.md",
+    "Rooms/Hallways/Secret Passageway.md",
+    "Rooms/Hallways/West Wing Hall.md",
+    "Rooms/Outer rooms/Hovel.md",
+    "Rooms/Outer rooms/Root Cellar.md",
+    "Rooms/Outer rooms/Schoolhouse.md",
+    "Rooms/Outer rooms/Shelter.md",
+    "Blue-Prince",
     "Pictures",
     "Untitled.canvas",
     "People",
@@ -227,7 +228,6 @@
     "Rooms/Outer rooms",
     "Rooms/Studio Additions",
     "Rooms/Red rooms",
-    "Rooms/Shops",
-    "Rooms/Green rooms"
+    "Rooms/Shops"
   ]
 }

@@ -14,4 +14,7 @@
 	- ![[Screenshot 2026-01-18 160422.png | 400]]
 	- ![[Screenshot 2026-01-18 160429.png | 400]]
 	- ![[Screenshot 2026-01-18 160435.png | 400]]
-- 
+- Fourth time:
+	- Children running in the [[Courtyard]]
+	- Old man on an even older chair (in the [[Drawing Room]])
+	- Same chair goes back generations
