@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "Boudoir"
             }
+          },
+          {
+            "id": "087d6dedf3933301",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Test.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Test"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Rooms/Bedrooms/Boudoir.md",
+                "file": "Test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Boudoir"
+              "title": "Backlinks for Test"
             }
           },
           {
@@ -180,8 +195,10 @@
       "bases:Create new base": false
     }
   },
-  "active": "fc4b7c5b682f6f2f",
+  "active": "087d6dedf3933301",
   "lastOpenFiles": [
+    "Rooms/Bedrooms/Boudoir.md",
+    "Test.md",
     "Rooms/Outer rooms/The Tomb.md",
     "Rooms/Room 037-046/Room 46.md",
     "Rooms/Room 037-046/Sauna.md",
@@ -200,7 +217,6 @@
     "Pictures/Pasted image 20260118165604.png",
     "Pictures/Pasted image 20260118165942.png",
     "Rooms/Bedrooms/Bedroom.md",
-    "Rooms/Bedrooms/Boudoir.md",
     "Rooms/Bedrooms/Bunk Room.md",
     "Rooms/Bedrooms/Guest Bedroom.md",
     "Rooms/Bedrooms/Nursery.md",
@@ -217,7 +233,6 @@
     "Rooms/Hallways/Hallway.md",
     "Rooms/Hallways/Passageway.md",
     "Rooms/Hallways/Secret Passageway.md",
-    "Rooms/Hallways/West Wing Hall.md",
     "Blue-Prince",
     "Pictures",
     "Untitled.canvas",
