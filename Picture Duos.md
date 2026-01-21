@@ -1,25 +1,14 @@
 Noticed that in (almost) all rooms there are to pictures and they seem to only differ by one added letter
 
-Car -> Card
-Pin -> Pine
-Desert -> Dessert
-And -> Sand
-Pry -> Pray
-Lock -> Clock
-Car -> Cart
-Tie -> Time
-Bat -> Boat
-Hose -> House
-Crow -> Crown
-Pea -> Peak
-Ten -> Tent
-Stars -> Stairs
-Plan -> Plain
-Row -> Crow
-Pine -> Spine
-Bat -> Bath
-Tag -> Stag
-Rod -> Road
-Rate -> Crate
+![[Pasted image 20260118170719.png]]
 
-dessactmounktiicshsac
+|     | f   |     |     |     |
+| --- | --- | --- | --- | --- |
+| c   | o   |     |     |     |
+| s   | m   | a   |     | l   |
+| g   |     | t   | e   | s   |
+| e   | i   | g   | h   | t   |
+| d   | a   | t   | e   | s   |
+| c   | r   | a   | c   | k   |
+| e   | i   | g   | h   | t   |
+| s   | a   | f   | e   | s   |
