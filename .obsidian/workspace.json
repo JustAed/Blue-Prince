@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rooms/Room 025-036/Boiler Room.md",
+                "file": "Rooms/Bedrooms/Boudoir.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Boiler Room"
+              "title": "Boudoir"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Rooms/Room 025-036/Boiler Room.md",
+                "file": "Rooms/Bedrooms/Boudoir.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Boiler Room"
+              "title": "Backlinks for Boudoir"
             }
           },
           {
@@ -182,9 +182,13 @@
   },
   "active": "fc4b7c5b682f6f2f",
   "lastOpenFiles": [
-    "Rooms/Shops/Showroom.md",
-    "Rooms/Room 025-036/Boiler Room.md",
+    "Rooms/Outer rooms/The Tomb.md",
+    "Rooms/Room 037-046/Room 46.md",
+    "Rooms/Room 037-046/Sauna.md",
     "Fortune Teller (Alzara).md",
+    "Apple Orchard.md",
+    "Rooms/Room 025-036/Boiler Room.md",
+    "Rooms/Shops/Showroom.md",
     "Pictures/Pasted image 20260118163139.png",
     "Pictures/Pasted image 20260118163242.png",
     "Pictures/Pasted image 20260118164052.png",
@@ -196,7 +200,7 @@
     "Pictures/Pasted image 20260118165604.png",
     "Pictures/Pasted image 20260118165942.png",
     "Rooms/Bedrooms/Bedroom.md",
-    "Rooms/Bedrooms/Boudior.md",
+    "Rooms/Bedrooms/Boudoir.md",
     "Rooms/Bedrooms/Bunk Room.md",
     "Rooms/Bedrooms/Guest Bedroom.md",
     "Rooms/Bedrooms/Nursery.md",
@@ -214,10 +218,6 @@
     "Rooms/Hallways/Passageway.md",
     "Rooms/Hallways/Secret Passageway.md",
     "Rooms/Hallways/West Wing Hall.md",
-    "Rooms/Outer rooms/Hovel.md",
-    "Rooms/Outer rooms/Root Cellar.md",
-    "Rooms/Outer rooms/Schoolhouse.md",
-    "Rooms/Outer rooms/Shelter.md",
     "Blue-Prince",
     "Pictures",
     "Untitled.canvas",
